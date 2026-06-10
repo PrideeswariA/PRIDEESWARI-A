@@ -83,11 +83,11 @@ endmodule
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/preethirani65">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preethirani65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/PrideeswariA">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrideeswariA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/preethirani65">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethirani65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/PrideeswariA">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrideeswariA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -96,7 +96,7 @@ endmodule
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=preethirani65&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=PrideeswariA&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ endmodule
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preethirani65&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrideeswariA&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ endmodule
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preethirani65&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PrideeswariA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -180,8 +180,8 @@ endmodule
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | 🎓 B.E. Electronics Engineering (VLSI Design & Technology) | M. Kumarasamy College of Engineering | Expected 2028 | CGPA: 7.98 |
-| 📘 Higher Secondary Certificate (HSC) | Government higher secondary school,odaipatti | 2022| 78% |
-| 📗 Secondary School Leaving Certificate (SSLC) | Government higher secondary school,odaipatti | 2024 | 70% |
+| 📘 Higher Secondary Certificate (HSC) | — | — | 78% |
+| 📗 Secondary School Leaving Certificate (SSLC) | — | — | 70% |
 
 </div>
 
@@ -200,7 +200,7 @@ endmodule
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=preethirani65&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=PrideeswariA&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
   <br/><br/>
 
