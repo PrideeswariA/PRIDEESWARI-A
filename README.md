@@ -194,7 +194,7 @@ endmodule
 ⚡ FPGA Optimisation      →  Timing closure, resource utilisation, pipelining
 🤖 ARM Cortex-M           →  Embedded firmware, bare-metal programming
 🌐 IoT Sensor Systems     →  Edge computing, sensor fusion, MQTT protocols
-📐 Digital Signal Proc.   →  FIR/IIR filters, FFT on FPGA
+📐 Digital Signal Proc.   →  FIR/IIR filters, FFT on FPGA.
 ```
 
 ---
